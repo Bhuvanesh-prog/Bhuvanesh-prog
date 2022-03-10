@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhuvanesh
 - 👀 I’m interested in Doing some repository and projects based on python, .Net and web develepoment
-- 🌱 I’m currently learning Java Script 
-- 💞️ I’m looking to collaborate on python projects 
+- 🌱 I’m currently learning .Net 
+- 💞️ I’m looking to collaborate on projects 
 
 
 <!---
